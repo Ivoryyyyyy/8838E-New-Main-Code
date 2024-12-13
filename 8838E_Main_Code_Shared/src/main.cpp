@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       mpncm                                                     */
+/*    Author:   blab balb bla helo     mpncm                                                     */
 /*    Created:      12/13/2024, 2:03:14 PM                                    */
 /*    Description:  V5 project                                                */
 /*                                                                            */
